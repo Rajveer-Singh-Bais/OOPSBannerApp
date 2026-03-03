@@ -1,4 +1,4 @@
-public class UC6 {
+public class OOPSBannerApp{
     static String[] getOPattern(){
         return new String[]{
             String.join("", " ", "*", "*", "*", "*", "*", " "),
