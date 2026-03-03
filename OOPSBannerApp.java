@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class UC8 {
+public class OOPSBannerApp {
     public static Map<Character, String[]> buildPatternMap() {
 
         Map<Character, String[]> map = new HashMap<>();
